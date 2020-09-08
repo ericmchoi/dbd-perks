@@ -1,0 +1,19 @@
+name: Predator
+codename: predator
+type: killer
+unique: wraith
+level: 30
+description: |-
+  Your acute tracking ability allows you to hone in on disturbances left by running survivors.
+
+  Scratch Marks left by survivors will spawn **[[slightly/moderately/considerably]]** closer
+  together.
+flavor: |-
+  "Never stop moving and hope you're always two steps ahead of the beast." -Notebook
+tags:
+  # icon tags
+  - footprint
+  - shoe
+  # description tags
+  - tracking
+  - scratch mark

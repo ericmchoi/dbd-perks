@@ -1,0 +1,30 @@
+name: Nemesis
+codename: nemesis
+type: killer
+unique: oni
+level: 40
+description: |-
+  You seek retribution on those who have wronged you.
+
+  A Survivor who blinds you or stuns you using a pallet or locker becomes your Obsession.
+
+  Anytime a new Survivor becomes the Obsession, they are affected by the
+  {{status:oblivious|Oblivious}} status effect for **[[40/50/60]] seconds** and their aura is shown
+  to you for **4 seconds**.
+
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor: |-
+  "Only a fool would spit in a demon's face and declare victory." -Renjiro's Doctrine 4:9
+tags:
+  # icon tags
+  - oni
+  - demon
+  - face
+  # description tags
+  - blinding
+  - stunning
+  - pallet
+  - locker
+  - obsession
+  - oblivious
+  - aura

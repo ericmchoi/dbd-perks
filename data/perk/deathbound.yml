@@ -1,0 +1,25 @@
+name: Deathbound
+codename: deathbound
+type: killer
+unique: executioner
+level: 40
+description: |-
+  Those whose lives are intertwined in darkness are destined to suffer together.
+
+  When a Survivor heals another Survivor for one health state at least **32 meters** away from the
+  Killer, the Survivor performing the healing action will scream, revealing their location and
+  activating *Deathbound* for the next **60 seconds**.
+  
+  During that time, the Survivor will suffer from the {{status:oblivious|Oblivious}} status effect
+  when further than **[[16/12/8]] meters** away from the healed Survivor.
+flavor:
+tags:
+  # icon tags
+  - hands
+  - cuffed
+  - barbed wire
+  # description tags
+  - healing
+  - screaming
+  - revealing
+  - oblivious

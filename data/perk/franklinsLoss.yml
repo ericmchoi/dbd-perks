@@ -1,0 +1,23 @@
+name: Franklin's Demise
+codename: franklinsLoss
+type: killer
+unique: cannibal
+level: 40
+description: |-
+  Your vicious attacks make Survivors drop their item on impact.
+  
+  The lost item will be consumed by the Entity after **[[150/120/90]] seconds** if it is not picked
+  up.
+
+  Reveals items on the ground within **32 meters** with a white aura. The aura of items on the
+  ground fade to red until they are consumed by The Entity.
+flavor: |-
+  "Sally, I hear something. Stop! Stop!" -Franklin
+tags:
+  # icon tags
+  - hand
+  - flashlight
+  # description tags
+  - dropping
+  - item
+  - aura

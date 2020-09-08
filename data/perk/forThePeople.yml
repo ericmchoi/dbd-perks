@@ -1,0 +1,33 @@
+name: For The People
+codename: forThePeople
+type: survivor
+unique: zarina kassir
+level: 40
+description: |-
+  You risk life and injury for others.
+
+  *For the People* is only active while at full health.
+
+  Press the *Active Ability* button while healing another Survivor without a med kit to instantly
+  heal them from dying to injured, or from injured to healthy.
+
+  You become injured and receive the {{status:broken|Broken}} status effect for **[[110/100/90]]
+  seconds**.
+
+  You become the Obsession.
+
+  Equipping this perk __decreases__ your chances to be The Killer's Obsession at the start of the
+  trial.
+flavor: |-
+  "We can write our own story and decide how it really ends." -Zarina Kassir
+tags:
+  # icon tags
+  - fist
+  - flag
+  - person
+  - revolution
+  # description tags
+  - Obsession
+  - active ability
+  - healing
+  - broken

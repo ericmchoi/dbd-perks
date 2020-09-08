@@ -1,0 +1,22 @@
+name: Lucky Break
+codename: luckyBreak
+type: survivor
+unique: yui kimura
+level: 30
+description: |-
+  You've had your share of scrapes and bruises, but luck's always on your side.
+
+  *Lucky Break* activates any time you are injured. You won't leave trails of blood for a total of
+  **[[120/150/180]] seconds**.
+
+  *Lucky Break* is permanently deactivated for the remainder of the trial once the total duration
+  has elapsed.
+flavor: |-
+  "That's not enough to beat me. Not even close." - Yui Kimura
+tags:
+  # icon tags
+  - hand
+  - bandage
+  # description tags
+  - blood trails
+  - injured

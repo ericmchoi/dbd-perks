@@ -1,0 +1,23 @@
+name: "Hex: The Third Seal"
+codename: theThirdSeal
+type: killer
+unique: hag
+level: 30
+description: |-
+  A Hex that hinders one's aura reading ability.
+  
+  Hitting a Survivor with a *basic attack* while the Hex Totem is active applies the
+  {{status:vision|Blindness}} status effect. This effect applies to the last **[[2/3/4]]** Survivors
+   hit.
+
+  *The Hex effects persist as long as the related Hex Totem is standing.*
+flavor: |-
+  "She touched your skin, you bear the witch's mark!"
+tags:
+  # icon tags
+  - face
+  - hands
+  # description tags
+  - blindness
+  - hex
+  - basic attack

@@ -1,0 +1,18 @@
+name: Alert
+codename: alert
+type: survivor
+unique: feng min
+level: 40
+description: |-
+  Your acute sense are on high alert.
+
+  When The Killer performs a break action, The Killer is revealed to you for **[[3/4/5]] seconds**.
+flavor: |-
+  "I have true sight." -Feng Min
+tags:
+  # icon tags
+  - face
+  - head
+  # description tags
+  - aura
+  - breaking

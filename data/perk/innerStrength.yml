@@ -1,0 +1,27 @@
+name: Inner Strength
+codename: innerStrength
+type: survivor
+unique: nancy wheeler
+level: 35
+description: |-
+  You look inward and trust your instincts when you feel lost and alone.
+
+  Each time you complete a totem cleanse action, *Inner Strength* activates. If you are already
+  afflicted by the {{status:broken|Broken}} status effect, *Inner Strength* does not activate.
+
+  While *Inner Strength* is active, hiding inside a locker for **[[10/9/8]] seconds** while injured
+  automatically heals you from injured to healthy.
+
+  *Inner Strength* becomes deactivated as soon as it has successfully triggered.
+flavor: |-
+  "All this time I've been trying so hard to pretend like everything's fine, but it's not." -Nancy
+  Wheeler
+tags:
+  # icon tags
+  - hoodie
+  - person
+  # description tags
+  - totem
+  - cleansing
+  - locker
+  - healing

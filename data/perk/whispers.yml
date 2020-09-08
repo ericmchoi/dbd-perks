@@ -1,0 +1,20 @@
+name: Whispers
+codename: whispers
+type: killer
+unique: ~
+level: 40
+description: |-
+  You have a rudimentary understanding of The Entity's voice.
+  
+  Sporadically hear The Entity's whisper when standing within a **[[48/40/32]] meter** range of a
+  Survivor.
+flavor: |-
+  "It's unclear as to motivations of The Fog, but it is undeniable that it often takes the beast's
+  side." -Notebook
+tags:
+  # icon tags
+  - ear
+  - wind
+  - head
+  - hearing
+  # description tags

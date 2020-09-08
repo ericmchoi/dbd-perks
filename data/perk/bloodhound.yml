@@ -1,0 +1,20 @@
+name: Bloodhound
+codename: bloodhound
+type: killer
+unique: wraith
+level: 35
+description: |-
+  Like a hunting scent hound, you smell traces of blood at a great distance.
+
+  Fresh bloodmarks are **considerably** more discernable than normal and can be tracked for
+  **[[2/3/4]] seconds** longer than normal.
+flavor: |-
+  "Pebbles shimmering in the moonlight; my life drips down in a trail so easy to follow."
+tags:
+  # icon tags
+  - dog
+  - bark
+  # description tags
+  - blood mark
+  - tracking
+  - hunting

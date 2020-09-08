@@ -1,0 +1,25 @@
+name: "Hex: Thrill Of The Hunt"
+codename: thrillOfTheHunt
+type: killer
+unique: ~
+level: 30
+description: |-
+  A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and
+  strengthen your totems.
+
+  For each Dull and Hex Totem remaining on the map gain a token.
+  - Gain **10%** more Bloodpoints for actions in the Hunter category for each token.
+  - Survivors' cleansing speed is reduced by **[[4/5/6]]%** for each token.
+  - Gain a notification when someone starts working on a Hex totem.
+
+  *The Hex effects persist as long as the related Hex Totem is standing.*
+flavor: ~
+tags:
+  # icon tags
+  - deer
+  - antlers
+  - skull
+  # description tags
+  - hex totem
+  - bloodpoints
+  - cleansing

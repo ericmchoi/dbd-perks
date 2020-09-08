@@ -1,0 +1,22 @@
+name: Boil Over
+codename: boilOver
+type: survivor
+unique: kate denson
+level: 40
+description: |-
+  You are a battler and do everything to escape a foe's grasp.
+
+  Your struggling effects on The Killer are increased by **[[25/50/75]]%**.
+
+  You obscure The Killer's ability to see hook auras within **[[10/12/14]] meters**.
+flavor: |-
+  "Buck and Wild,  
+  Swing to be free,  
+  Your hands just can't keep ahold of me."  
+  -Kate Denson's "Boil Over"
+tags:
+  # icon tags
+  - horse
+  # description tags
+  - struggling
+  - hook

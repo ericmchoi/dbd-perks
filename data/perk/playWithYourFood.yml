@@ -1,0 +1,24 @@
+name: Play With Your Food
+codename: playWithYourFood
+type: killer
+unique: shape
+level: 35
+description: |-
+  You become __obsessed__ with one Survivor.
+
+  Every time you chase your obsession and let them escape, you receive a token up to a maximum of 3
+  tokens.
+
+  Each token increases your movement speed by **[[3/4/5]]%**.
+
+  Performing a *basic attack* or *Special Attack* spends one token.
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor: |-
+  "You've fooled them, haven't you Michael? But not me." -Dr. Sam Loomis
+tags:
+  # icon tags
+  - spider
+  # description tags
+  - obsession
+  - tokens
+  - movement speed

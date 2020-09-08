@@ -1,0 +1,5 @@
+name: Exhausted
+codename: exhausted
+description: |-
+  The Survivor cannot use movement speed abilities. The Survivor recovers from the **Exhausted**
+  status effect after some time.

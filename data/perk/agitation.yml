@@ -1,0 +1,22 @@
+name: Agitation
+codename: agitation
+type: killer
+unique: trapper
+level: 40
+description: |-
+  You get excited in anticipation of hooking your prey.
+  
+  Increases your movement speed while transporting bodies by **[[6/12/18]]%**. While transporting a
+  body, your Terror Radius is increased by **12 meters**.
+flavor: |-
+  "At some point, the excitement of hooking one of us becomes more important than the desire to
+  kill us."
+tags:
+  # icon tags
+  - smile
+  - mouth
+  # description tags
+  - movement speed
+  - transporting
+  - carrying
+  - terror radius

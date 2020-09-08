@@ -1,0 +1,20 @@
+name: Wake Up!
+codename: wakeUp
+type: survivor
+unique: quentin smith
+level: 30
+description: |-
+  Unlocks potential in one's aura reading ability.
+  
+  Once all generators are powered, Exit Gates are revealed to you within a **128 meter** range.
+  While opening the Exit Gates, reveal your aura to other Survivors up to **128 meters**.
+
+  While *Wake Up!* is active, you open the Exit Gates **[[5/10/15]]%** faster.
+flavor: ~
+tags:
+  # icon tags
+  - eyes
+  - wrinkles
+  # description tags
+  - aura
+  - Exit Gates

@@ -1,0 +1,18 @@
+name: Distressing
+codename: distressing
+type: killer
+unique: ~
+level: 35
+description: |-
+  Your horrifying emanation strikes at a supernaturally long distance.
+  
+  Your Terror Radius is increased by **[[22/24/26]]%**. Gain **100%** more Bloodpoints for actions
+  in the Deviousness category.
+flavor: |-
+  "Bask in their fear."
+tags:
+  # icon tags
+  - heart
+  # description tags
+  - terror radius
+  - bloodpoints

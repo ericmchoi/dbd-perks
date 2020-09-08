@@ -1,0 +1,26 @@
+name: Vigil
+codename: vigil
+type: survivor
+unique: quentin smith
+level: 40
+description: |-
+  You look over your friends even in dire situations.
+  
+  You and your allies within a **8 meter** range recover from the {{status:exhausted|Exhausted}},
+  {{status:bleeding|Hemorrhage}}, {{status:mangled|Mangled}}, {{status:hindered|Hindered}}, and
+  {{status:vision|Blindness}} status effects **[[10/15/20]]%** faster. Once out of range, this
+  effect persists for **15 seconds**.
+flavor: ~
+tags:
+  # icon tags
+  - crouching
+  - kneeling
+  - lantern
+  - light
+  # description tags
+  - recovering
+  - exhausted
+  - hemorrhage
+  - mangled
+  - hindered
+  - blindness

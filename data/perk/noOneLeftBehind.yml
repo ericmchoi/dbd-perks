@@ -1,0 +1,24 @@
+name: No One Left Behind
+codename: noOneLeftBehind
+type: survivor
+unique: ~
+level: 35
+description: |-
+  It is inconceivable to leave someone behind.
+  
+  Once at least one exit gate is opened, you gain the following effects:
+  - **[[50/75/100]]%** additional Bloodpoints for healing and unhooking other Survivors.
+  - **[[30/40/50]]%** bonus action speed when healing and unhooking other Survivors.
+  - The auras of all other Survivors are revealed to you.
+flavor: |-
+  "...yeah, no shit. But I believe we can outsmart and overthrow him if we work together. Don't be
+  predictable and selfish!" -Lost Tapes: Clyde
+tags:
+  # icon tags
+  - people
+  - leaning
+  # description tags
+  - bloodpoints
+  - aura
+  - unhooking
+  - healing

@@ -1,0 +1,18 @@
+name: Insidious
+codename: insidious
+type: killer
+unique: ~
+level: 40
+description: |-
+  Unlocks the stealth ability.
+
+  Standing still for **[[4/3/2]] seconds** grants you the {{status:undetectable|Undetectable}}
+  status effect until you move or act again.
+flavor: ~
+tags:
+  # icon tags
+  - man
+  - half
+  - muscle
+  # description tags
+  - undetectable

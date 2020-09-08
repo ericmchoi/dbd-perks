@@ -1,0 +1,20 @@
+name: Fixated
+codename: fixated
+type: survivor
+unique: nancy wheeler
+level: 35
+description: |-
+  When you have a goal in mind, there's no turning back: better to ask forgiveness than permission.
+
+  You can see your own scratch marks at all times.
+
+  While uninjured, you walk **[[10/15/20]]%** faster.
+flavor: |-
+  "I wanna finish what we started. I want to kill it." -Nancy Wheeler
+tags:
+  # icon tags
+  - feet
+  - walking
+  # description tags
+  - scratch marks
+  - walking speed

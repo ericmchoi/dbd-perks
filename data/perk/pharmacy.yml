@@ -1,0 +1,22 @@
+name: Pharmacy
+codename: pharmacy
+type: survivor
+unique: quentin smith
+level: 35
+description: |-
+  You have a knack for finding medicine.
+
+  Unlocking chests is **[[40/60/80]]%** faster and the  noises this causes, along with their hearing
+  distances, are reduced by **8 meters**.
+
+  *Pharmacy* guarantees an Emergency Med-Kit on your __first__ unlocked chest.
+flavor: ~
+tags:
+  # icon tags
+  - medkit
+  - med kit
+  - hands
+  # description tags
+  - chest
+  - noise sound audio
+  - med kit

@@ -1,0 +1,23 @@
+name: Overcharge
+codename: generatorOvercharge
+type: killer
+unique: doctor
+level: 40
+description: |-
+  You are fuelled by your hate for progress.
+
+  Overcharge a generator by performing the __Damage Generator__ action. The next Survivor
+  interacting with that generator is faced with a **tremendously** difficult Skill Check. Failing
+  the Skill Check results in an additional **[[3/4/5]]%** generator regression.
+
+  Succeeding the Skill Check grants no progress but prevents the generator explosion.
+flavor: |-
+  "It is a trap. But a trap one must step in..." -The Doctor
+tags:
+  # icon tags
+  - generator
+  - electricity
+  # description tags
+  - damage damaging
+  - skill check
+  - regression

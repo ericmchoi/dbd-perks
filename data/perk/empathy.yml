@@ -1,0 +1,19 @@
+name: Empathy
+codename: empathy
+type: survivor
+unique: claudette morel
+level: 30
+description: |-
+  Unlocks potential in one's aura reading ability.
+
+  Dying or injured allies' auras are revealed to you when within a **[[64/96/128]] meter** range.
+  *Empathy* does not reveal auras of allies when they are in direct contact with The Killer.
+flavor: ~
+tags:
+  # icon tags
+  - heart
+  - hands
+  # description tags
+  - aura
+  - dying
+  - injured

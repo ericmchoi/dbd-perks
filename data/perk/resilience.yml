@@ -1,0 +1,27 @@
+name: Resilience
+codename: resilience
+type: survivor
+unique: ~
+level: 35
+description: |-
+  You are motivated in dire situations.
+
+  Grants **[[3/6/9]] %** additional speed when repairing, sabotaging, healing, unhooking, vaulting,
+  cleansing, opening Exit Gates, and unlocking while injured.
+flavor: |-
+  "Focus, even in these desperate times."
+tags:
+  # icon tags
+  - fist
+  - head
+  - person
+  # description tags
+  - speed
+  - repairing
+  - sabotaging
+  - healing
+  - unhooking
+  - vaulting
+  - cleansing
+  - opening
+  - unlocking

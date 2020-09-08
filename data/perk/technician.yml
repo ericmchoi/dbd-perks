@@ -1,0 +1,23 @@
+name: Technician
+codename: technician
+type: survivor
+unique: feng min
+level: 30
+description: |-
+  You are apt at handling machinery with the greatest care and precision.
+
+  The noises caused by your repairs and their hearing distance are reduced by **8 meters**. On a
+  failed repair Skill Check, there is a **[[30/40/50]]%** chance the generator explosion will be
+  prevented.
+flavor: |-
+  "I'm gonna stealth this one." -Feng Min
+tags:
+  # icon tags
+  - quiet
+  - hood
+  - face
+  - gears
+  # description tags
+  - repairing
+  - noise audio sound
+  - Skill Check

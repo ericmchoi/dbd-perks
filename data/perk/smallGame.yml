@@ -1,0 +1,25 @@
+name: Small Game
+codename: smallGame
+type: survivor
+unique: ~
+level: 30
+description: |-
+  You have the undeniable capability to sense danger.
+
+  Get an auditory warning when looking in the direction of Killer Traps and totems in a **45
+  degree** cone within a range of **[[8/10/12]] meters**. *Small Game* has a cooldown of
+  **[[15/12/10]] seconds** each time it activates.
+
+  *Only works on traps that are set by Killers.*
+flavor: |-
+  "Nope." -Lost Tapes: Andy
+tags:
+  # icon tags
+  - trap
+  - jumping
+  - leaping
+  - legs
+  # description tags
+  - auditory warning
+  - traps
+  - totems

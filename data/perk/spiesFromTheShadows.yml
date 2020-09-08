@@ -1,0 +1,19 @@
+name: Spies From The Shadows
+codename: spiesFromTheShadows
+type: killer
+unique: ~
+level: 40
+description: |-
+  The crows found in the world can communicate with you directly.
+
+  **100%** of the time, cawing crows give you a visual cue when you are within a **[[20/28/36]]
+  meter** range.
+
+  *Spies From The Shadows* has a cooldown of **5 seconds**.
+flavor: |-
+  "In the shadows they torment, scarring our minds with each scream."
+tags:
+  # icon tags
+  - crow
+  # description tags
+  - visual cue

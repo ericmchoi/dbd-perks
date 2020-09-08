@@ -1,0 +1,22 @@
+name: I'm All Ears
+codename: imAllEars
+type: killer
+unique: ghost face
+level: 30
+description: |-
+  Your keen senses are sharpened in the dark realm of The Entity.
+
+  Unlocks potential in one's aura reading ability.
+
+  Any Survivor performing a rushed action within **48 meters** from your location will have their
+  aura revealed for **6 seconds**.
+
+  *I'm all Ears* can only be triggered once very **[[60/50/40]] seconds**.
+flavor: |-
+  "There is no need to worry. I've been preparing my whole life for this." -The Ghost Face
+tags:
+  # icon tags
+  - listening
+  # description tags
+  - aura
+  - rushed action

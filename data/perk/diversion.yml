@@ -1,0 +1,32 @@
+name: Diversion
+codename: diversion
+type: survivor
+unique: adam francis
+level: 30
+description: |-
+  Activatable Perk.
+
+  Standing within The Killer's Terror Radius while not in a chase for **45 seconds** activates
+  *Diversion*.
+  - Once *Diversion* is activated, press the *Active Ability* button while crouched and motionless
+  to throw a pebble, which creates a distraction for The Killer at a distance of **[[10/15/20]]
+  meters**.
+  - The perk timer resets once the ability has been activated.
+
+  The distraction consists of:
+  - A loud noise notification
+  - Scratch Marks
+flavor: |-
+  "There's what is easy and then there's what is right. If you confuse the two, there's no telling
+  what you become." -Adam Francis
+tags:
+  # icon tags
+  - hand
+  - stone
+  - rock
+  - throwing
+  # description tags
+  - Terror Radius
+  - active ability
+  - noise sound audio
+  - scratch marks

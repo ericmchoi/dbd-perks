@@ -1,0 +1,17 @@
+name: Open-Handed
+codename: openHanded
+type: survivor
+unique: ace visconti
+level: 30
+description: |-
+  Strengthens the potential of you and your team's aura reading abilities.
+
+  Increases aura reading ranges by **[[4/6/8]] meters**.
+flavor: |-
+  "Paying attention is what kept me alive through the years. That, and my good looks of course" -Ace
+tags:
+  # icon tags
+  - cards
+  - hand
+  # description tags
+  - aura range

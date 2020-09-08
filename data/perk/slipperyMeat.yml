@@ -1,0 +1,18 @@
+name: Slippery Meat
+codename: slipperyMeat
+type: survivor
+unique: ~
+level: 30
+description: |-
+  You have developed an efficient way to get out of Bear Traps and off hooks.
+  - Grants up to **3** extra escape attempts on the hook.
+  - The odds of freeing yourself form Bear Traps is increased by **[[15/20/25]]%**.
+flavor: ~
+tags:
+  # icon tags
+  - opening
+  - bear trap
+  - hands
+  # description tags
+  - escape escaping
+  - freeing

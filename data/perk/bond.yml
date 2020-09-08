@@ -1,0 +1,20 @@
+name: Bond
+codename: bond
+type: survivor
+unique: dwight fairfield
+level: 30
+description: |-
+  Unlocks potential in one's aura reading ability.
+
+  Allies' auras are revealed to you when they are within a **[[20/28/36]] meter** range.
+flavor: |-
+  "We have to work as a team, I need you to survive so that I can survive!" -Dwight
+tags:
+  # icon tags
+  - hands
+  - string
+  - rope
+  - tied
+  # description tags
+  - aura
+  - allies

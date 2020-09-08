@@ -1,0 +1,21 @@
+name: Infectious Fright
+codename: infectiousFright
+type: killer
+unique: plague
+level: 35
+description: |-
+  The cries of the unfaithful makes your heart leap.
+
+  Any Survivors that are within your Terror Radius while another Survivor is put into the dying
+  state will yell and reveal their location to you for **[[4/5/6]] seconds**.
+flavor: |-
+  "Horror overcomes the heart of infidels who cry at the feet of the fallen" (Hymn of Praise, 11. 4)
+tags:
+  # icon tags
+  - people
+  - yelling
+  - screaming
+  # description tags
+  - dying state
+  - yell
+  - reveal

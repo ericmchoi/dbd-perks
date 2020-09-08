@@ -1,0 +1,20 @@
+name: Solidarity
+codename: solidarity
+type: survivor
+unique: jane romero
+level: 30
+description: |-
+  Sharing painful experiences has the power to heal.
+  
+  While injured, healing a Survivor without using a med-kit also heals you at a **[[40/45/50]]%**
+  conversion rate.
+flavor: |-
+  "Showing up when things get rough, listening to people's problems, and supporting those in need;
+  that's how you become stronger, that's how you grow" -Jane Romero
+tags:
+  # icon tags
+  - people
+  - touching
+  # description tags
+  - healing
+  - injured

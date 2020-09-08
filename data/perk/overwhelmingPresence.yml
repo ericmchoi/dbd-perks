@@ -1,0 +1,20 @@
+name: Overwhelming Presence
+codename: overwhelmingPresence
+type: killer
+unique: doctor
+level: 30
+description: |-
+  Your presence alone instills great fear.
+  
+  Survivors within your Terror Radius suffer from inefficiency. Affect Survivors' item consumption
+  rates are increased by **[[80/90/100]]%**.
+flavor: |-
+  "Shit!! I dropped the gauze!"
+tags:
+  # icon tags
+  - person
+  - electricity
+  - bolt
+  # description tags
+  - item consumption
+  - terror radius

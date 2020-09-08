@@ -1,0 +1,30 @@
+name: Borrowed Time
+codename: borrowedTime
+type: survivor
+unique: bill overbeck
+level: 35
+description: |-
+  You are fuelled by unexpected energy when saving an ally from a hook within The Killer's Terror
+  Radius.
+
+  After unhooking a Survivor within The Killer's Terror Radius, they gain the
+  {{status:endurance|Endurance}} status effect for **15 seconds**. Any damage taken during that time
+  that would put the unhooked Survivor into the dying state will instead apply the
+  {{status:deepWound|Deep Wound}} status effect. The Survivor has **[[10/15/20]] seconds** to Mend
+  themselves.
+
+  If the unhooked Survivor takes any damage while affected by {{status:deepWound|Deep Wound}}, or if
+  the {{status:deepWound|Deep Wound}} timer ends, the unhooked Survivor is immediately put into the
+  dying state.
+flavor: |-
+  "Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!"
+  -Bill Overbeck
+tags:
+  # icon tags
+  - pocket watch
+  - clock
+  - hand
+  # description tags
+  - unhooking
+  - endurance
+  - deep wound

@@ -1,0 +1,23 @@
+name: Thrilling Tremors
+codename: thrillingTremors
+type: killer
+unique: ghost face
+level: 35
+description: |-
+  Your dark designs and shrewd composure rouse The Entity.
+
+  After picking up a Survivor, all generators not being repaired by Survivors are blocked by The
+  Entity and cannot be repaired for the next **16 seconds**. Affected generators are highlighted by
+  a white aura.
+
+  *Thrilling Tremors* can only be triggered once every **[[100/80/60]] seconds**. 
+flavor: |-
+  "The night assists me and it's endless here." -The Ghost Face
+tags:
+  # icon tags
+  - entity
+  - carrying
+  # description tags
+  - generators
+  - block
+  - aura

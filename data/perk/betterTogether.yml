@@ -1,0 +1,24 @@
+name: Better Together
+codename: betterTogether
+type: survivor
+unique: nancy wheeler
+level: 30
+description: |-
+  You seek justice and uncover the truth no matter what obstacle stands in your way.
+
+  The aura of the generator you are currently repairing is revealed to all other Survivors located
+  within **32 meters**.
+
+  If The Killer downs a Survivor while you are repairing a generator, you see the aura of all other
+  Survivors for **[[8/9/10]] seconds**.
+flavor: |-
+  "Let's burn that lab to the ground." -Nancy Wheeler
+tags:
+  # icon tags
+  - back to back
+  - people
+  # description tags
+  - generator
+  - repairing
+  - aura
+  - down

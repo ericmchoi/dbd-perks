@@ -1,0 +1,30 @@
+name: Second Wind
+codename: secondWind
+type: survivor
+unique: steve harrington
+level: 40
+description: |-
+  When you have healed other Survivors for the equivalent of one health state, *Second Wind*
+  activates. If you are already afflicted by the {{status:broken|Broken}} status effect, *Second
+  Wind* does not activate.
+
+  While *Second Wind* is activated, the next time you are unhooked or you unhook yourself, you are
+  affected by the {{status:broken|Broken}} status effect. After a total duration of **[[34/32/30]]
+  seconds**, *Second Wind* automatically heals you from injured to healthy.
+
+  *Second Wind* deactivates once you become healthy or if you are put into the dying state before
+  *Second Wind* successfully triggers. You lose the {{status:broken|Broken}} status effect.
+flavor: |-
+  "Yeah, that's a no." -Steve Harrington
+tags:
+  # icon tags
+  - kneeling
+  - crouching
+  - hurt
+  - bat
+  - bleeding
+  - person
+  # description tags
+  - unhooking
+  - broken
+  - healing

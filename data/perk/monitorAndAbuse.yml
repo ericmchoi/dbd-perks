@@ -1,0 +1,24 @@
+name: Monitor & Abuse
+codename: monitorAndAbuse
+type: killer
+unique: doctor
+level: 35
+description: |-
+  Meticulous in your approach, terrifying in your application.
+
+  While in a chase, your Terror Radius is increased by **8 meters**. Otherwise, your Terror Radius
+  is decreased by **8 meters** and your field of view is increased by **[[3/5/10]] degrees**.
+
+  *Field of view gains do not stack.*
+flavor: |-
+  "It's time for your treatment!" -The Doctor
+tags:
+  # icon tags
+  - eyes
+  - electricity
+  - face
+  # description tags
+  - terror radius
+  - chase
+  - field of view
+  - fov

@@ -1,0 +1,24 @@
+name: Zanshin Tactics
+codename: zanshinTactics
+type: killer
+unique: oni
+level: 30
+description: |-
+  Unlocks potential in one's aura reading ability. You are mentally alert and aware of key points on
+  the battlefield.
+
+  The auras of all pallets, breakable walls, and vault locations are revealed to you within a **24
+  meter** range.
+
+  When a Survivor is damaged, *Zanshin Tactics* becomes inactive for **[[40/35/30]] seconds**.
+flavor: |-
+  "Within your enemy's strength is weakness." -Renjiro's Doctrine 12:5
+tags:
+  # icon tags
+  - forehead
+  - third eye
+  # description tags
+  - aura
+  - pallets
+  - breakable walls
+  - vault locations

@@ -1,0 +1,18 @@
+name: Deerstalker
+codename: deerstalker
+type: killer
+unique: ~
+level: 30
+description: |-
+  Unlocks potential in one's aura reading ability.
+
+  Reveals dying survivors' auras when standing within a **[[20/28/36]] meter** range.
+flavor: ~
+tags:
+  # icon tags
+  - deer
+  - antlers
+  - skull
+  # description tags
+  - aura
+  - dying

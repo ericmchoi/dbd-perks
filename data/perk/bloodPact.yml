@@ -1,0 +1,27 @@
+name: Blood Pact
+codename: bloodPact
+type: survivor
+unique: cheryl mason
+level: 35
+description: |-
+  It's as if a latent part of yourself has awakened. You feel like you can reach out beyond yourself
+  for assistance.
+
+  When you or the Obsession are injured, you both see each other's auras.
+
+  After completing a healing action on the Obsession, or having the Obsession complete a healing
+  action on you, you both gain a **7%** {{status:speed|Haste}} status effect for **[[6/8/10]]
+  seconds**.
+
+  Reduces the odds of being the Obsession.
+
+  If you are the Obsession, this perk deactivates.
+flavor: ~
+tags:
+  # icon tags
+  - handprint
+  - blood
+  # description tags
+  - obsession
+  - healing
+  - haste

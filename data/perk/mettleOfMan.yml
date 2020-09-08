@@ -1,0 +1,33 @@
+name: Mettle Of Man
+codename: mettleOfMan
+type: survivor
+unique: ash williams
+level: 40
+description: |-
+  Evil has a way of always finding you.
+
+  After you earn **3** Protection Hit scoring events, *Mettle of Man* activates.
+
+  Once activated, the next occasion that would put you into the __dying state__ from the
+  __injured state__ is ignored.
+
+  The next time you heal back to full health, your aura will be revealed to the killer when you are
+  further than **[[12/14/16]] meters** from the killer.
+
+  *Mettle of Man* will deactivate the next time you are put into the dying state.
+  - *Increases your chances of being The Killer's Obsession.*
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor: |-
+  "Evil has a bullseye on my back the size of Tiger Stadium." -Ash Williams
+tags:
+  # icon tags
+  - glove
+  - gauntlet
+  - hand
+  # description tags
+  - protection hit
+  - dying state
+  - injured state
+  - heal
+  - aura
+  - obsession

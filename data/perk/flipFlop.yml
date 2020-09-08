@@ -1,0 +1,21 @@
+name: Flip-Flop
+codename: flipFlop
+type: survivor
+unique: ash williams
+level: 30
+description: |-
+  You have an uncanny ability to escape the inevitable.
+
+  While in dying state, **50%** of your recovery progression is converted into wiggle progression
+  when you are picked up by The Killer, up to a maximum of **[[40/45/50]]%** total wiggle
+  progression.
+flavor: |-
+  "Catch ya on the flip-flop." -Ash Williams
+tags:
+  # icon tags
+  - winking
+  - head
+  # description tags
+  - dying state
+  - wiggling
+  - picked up

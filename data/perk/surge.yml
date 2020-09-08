@@ -1,0 +1,23 @@
+name: Surge
+codename: surge
+type: killer
+unique: demogorgon
+level: 30
+description: |-
+  Your eerie presence charges the air and interferes with technology.
+
+  Putting a Survivor into the dying state with a *basic attack* causes all generators within a **32
+  meter radius** to instantly explode and regress. This applies an additional regression of **8%**.
+  - *Surge* can only be triggered once every **[[60/50/40]] seconds**.
+flavor: |-
+  "The creature appears to have some unknown influence over electricity and nearby electronics."
+  -Hawkins National Laboratory
+tags:
+  # icon tags
+  - generator
+  - splash
+  # description tags
+  - dying state
+  - generator
+  - explode
+  - regression

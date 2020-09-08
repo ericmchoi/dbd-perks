@@ -1,0 +1,18 @@
+name: Left Behind
+codename: leftBehind
+type: survivor
+unique: bill overbeck
+level: 30
+description: |-
+  Unlocks potential in one's aura reading ability.
+
+  If you are the last Survivor remaining in the Trial, you can see the aura of the Hatch within a
+  **24/28/32 meter** range.
+flavor: |-
+  "I'm not horseshittin' around. I'm doing this alone!" -Bill
+tags:
+  # icon tags
+  - kneeling
+  # description tags
+  - aura
+  - hatch

@@ -1,0 +1,19 @@
+name: Brutal Strength
+codename: brutalStrength
+type: killer
+unique: trapper
+level: 35
+description: |-
+  Your great strength allows you to shred through your prey's defenses.
+  
+  Destroy dropped __pallets, breakable walls, and generators__ **[[10/15/20]]%** faster.
+flavor: |-
+  "It's more than muscles. A dark power motivates the beast."
+tags:
+  # icon tags
+  - foot
+  - kicking
+  # description tags
+  - pallet
+  - breakable wall
+  - generator

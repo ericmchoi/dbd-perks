@@ -1,0 +1,18 @@
+name: Iron Grasp
+codename: ironGrasp
+type: killer
+unique: ~
+level: 30
+description: |-
+  Your powerful hold on the Survivors causes escapes to be nearly impossible.
+  
+  Effects of Survivor struggling are reduced by **75%**. Time to struggle out of your grasp is
+  increased by **[[4/8/12]]%**.
+flavor: ~
+tags:
+  # icon tags
+  - hand
+  - grab
+  - cloth
+  # description tags
+  - struggling

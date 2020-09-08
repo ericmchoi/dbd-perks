@@ -1,0 +1,21 @@
+name: Breakout
+codename: breakout
+type: survivor
+unique: yui kimura
+level: 40
+description: |-
+  You kick into high gear when someone's in trouble, inspiring them to overcome any obstacle.
+
+  When within **6 meters** of a carried Survivor, you gain the {{status:speed|Haste}} status effect,
+  moving at **[[5/6/7]]%** increased speed. The carried Survivor's wiggle speed is increased by
+  **20%**.
+flavor: |-
+  "Come, we're going to rip our way out of this." - Yui Kimura
+tags:
+  # icon tags
+  - motorcycle
+  # description tags
+  - carried
+  - haste
+  - movement speed
+  - wiggle speed

@@ -1,0 +1,21 @@
+name: Tinkerer
+codename: tinkerer
+type: killer
+unique: hillbilly
+level: 40
+description: |-
+  When a generator is repaired to **70%** repair progress, it triggers a loud noise notification and
+  you are granted the {{status:undetectable|Undetectable}} status effect for **[[12/14/16]]
+  seconds**.
+flavor: |-
+  "The Hillbilly makes impressive tools out of scraps. Tools aimed at maiming us in creative ways."
+  -Notebook
+tags:
+  # icon tags
+  - hands
+  - tools
+  # description tags
+  - generator
+  - repair
+  - noise notification
+  - undetectable

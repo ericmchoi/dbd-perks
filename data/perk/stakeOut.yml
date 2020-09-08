@@ -1,0 +1,25 @@
+name: Stake Out
+codename: stakeOut
+type: survivor
+unique: david tapp
+level: 40
+description: |-
+  Getting close to the Killer fills you with determination.
+
+  For each **15 seconds** you are standing within the Killer Terror Radius and not in a chase, you
+  gain a Token up to a maximum of **[[2/3/4]] Tokens**.
+
+  When *Stake Out* has at least *1 Token*, Good Skill Checks are considered Great Skill Checks,
+  consume *1 Token*, and grant an additional **1%** bonus to Generator repair progress.
+flavor: |-
+  "I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close
+  this case!" -Detective David Tapp
+tags:
+  # icon tags
+  - people
+  - followed following
+  # description tags
+  - tokens
+  - skill checks
+  - terror radius
+  - repairing

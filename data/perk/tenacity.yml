@@ -1,0 +1,20 @@
+name: Tenacity
+codename: tenacity
+type: survivor
+unique: detective tapp
+level: 30
+description: |-
+  There is nothing stopping you.
+
+  Your ferocious tenacity in dire situations allow you crawl **[[30/40/50]]%** faster and recover at
+  the same time.
+flavor: |-
+  "What the hell is this? I'm taking this bastard down!" -Detective David Tapp
+tags:
+  # icon tags
+  - person
+  - cap
+  # description tags
+  - crawling
+  - recovering
+  - dying state

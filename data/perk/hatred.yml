@@ -1,0 +1,24 @@
+name: Rancor
+codename: hatred
+type: killer
+unique: spirit
+level: 40
+description: |-
+  You become __obsessed__ with one Survivor.
+
+  Each time a generator is completed, your Obsession (a Survivor) sees your aura for **[[5/4/3]]
+  seconds.** Each time a generator is completed, all Survivors' locations are revealed to you for
+  **3 seconds**. Once all generators are completed, the Obsession has the {{status:exposed|Exposed}}
+  status effect and you can **kill** your obsession.
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor:
+tags:
+  # icon tags
+  - ghost
+  - hair
+  # description tags
+  - obsession
+  - aura
+  - generator
+  - exposed
+  - kill

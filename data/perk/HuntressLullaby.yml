@@ -1,0 +1,26 @@
+name: "Hex: Huntress Lullaby"
+codename: HuntressLullaby
+type: killer
+unique: huntress
+level: 40
+description: |-
+  A Hex rooting its power in despair. Your hunt is an irresistible song of dread which muddles your
+  prey's attention.
+  
+  Survivors receive a **[[2/4/6]]%** regression penalty when missing any skill check.
+
+  Each time a Survivor is hooked, Huntress Lullaby grows in power:
+  - __1 to 4 Tokens:__ Time between the Skill Check warning sound and the Skill Check becomes
+  shorter.
+  - __5 Tokens:__ No Skill Check warning.
+
+  *The Hex effects persist as long as the related Hex Totem is standing.*
+flavor:
+tags:
+  # icon tags
+  - mask
+  - singing
+  - music
+  # description tags
+  - skill check
+  - tokens

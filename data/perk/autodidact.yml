@@ -1,0 +1,25 @@
+name: Autodidact
+codename: autodidact
+type: survivor
+unique: adam francis
+level: 40
+description: |-
+  You start the trial with a **-25%** progress penalty for Skill Checks to heal Survivors.
+
+  For every successful Skill Check while healing a Survivor, you receive a Token up to a maximum of
+  **[[3/4/5]] Tokens**.
+
+  Each Token grants you a **+15%** progress bonus.
+
+  Great Skill Checks cannot be performed while using Autodidact.
+  - Autodidact is not active when using a Med Kit to heal.
+flavor: |-
+  "There's no limit to what you can achieve, as long as you back it up with hard work." -Adam
+  Francis
+tags:
+  # icon tags
+  - books
+  # description tags
+  - healing speed
+  - tokens
+  - skill checks

@@ -1,0 +1,29 @@
+name: Dark Devotion
+codename: darkDevotion
+type: killer
+unique: plague
+level: 40
+description: |-
+  The display of your Powers creates a whirlwind of panic that spreads throughout the land.
+
+  You become __obsessed__ with one Survivor.
+
+  Hitting the Obsession with a *basic attack* transfers your Terror Radius to the Obsession for
+  **[[20/25/30]] seconds**, and sets its radius to **32 meters**. You are granted the
+  {{status:undetectable|Undetectable}} status effect for the duration.
+
+  The Survivor with the transferred Terror Radius is also considered to be the "inside the Terror
+  Radius" for other purposes.
+
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor: |-
+  "And terror shall take hold of a defiant non-believer, who shall falsely announce my arrival."
+  (The Tablet of Adiris, 48. 9)
+tags:
+  # icon tags
+  - heart
+  - entity
+  # description tags
+  - obsession
+  - terror radius
+  - undetectable

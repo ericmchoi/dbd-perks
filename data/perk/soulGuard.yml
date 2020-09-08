@@ -1,0 +1,27 @@
+name: Soul Guard
+codename: soulGuard
+type: survivor
+unique: cheryl mason
+level: 30
+description: |-
+  You have been through immense hardship and you're stronger for it.
+
+  Gain the {{status:endurance|Endurance}} status effect for **[[4/6/8]] seconds** after being healed
+  or having recovered from the dying state. During this time, any damage that would put you in the
+  dying state will instead apply {{status:deepWound|Deep Wounds}}. You have **20 seconds** to
+  *Mend* yourself. If you take any damage while affect by {{status:deepWound|Deep Wounds}}, or if
+  the time ends, you are immediately put into the dying state.
+
+  While cursed by a hex, you can fully recover from the dying state.
+flavor: ~
+tags:
+  # icon tags
+  - hand
+  - symbol
+  - circle
+  - rune
+  # description tags
+  - endurance
+  - healing
+  - dying state
+  - deep wounds

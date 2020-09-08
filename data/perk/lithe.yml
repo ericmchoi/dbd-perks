@@ -1,0 +1,25 @@
+name: Lithe
+codename: lithe
+type: survivor
+unique: feng min
+level: 35
+description: |-
+  After performing a __rushed__ vault, break into a sprint at **150%** of your normal running speed
+  for a maximum of **3 seconds**.
+
+  Causes the {{status:exhausted|Exhausted}} status effect for **[[60/50/40]] seconds**.
+
+  *Lithe* cannot be used while {{status:exhausted|Exhausted}}.
+
+  You do not recover from the {{status:exhausted|Exhausted}} status effect while running.
+flavor: |-
+  "U mad?" -Feng Min
+tags:
+  # icon tags
+  - leaping
+  - jumping
+  - vaulting
+  - fence
+  # description tags
+  - running speed
+  - exhausted

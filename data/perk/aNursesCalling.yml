@@ -1,0 +1,22 @@
+name: A Nurse's Calling
+codename: aNursesCalling
+type: killer
+unique: nurse
+level: 40
+description: |-
+  Unlocks potential in one's aura reading ability.
+
+  The auras of Survivors who are healing or being  healed are revealed to you when they are within a
+  **[[20/24/28]] meter** range.
+flavor: |-
+  "Still attached to the fragments of her past life, she is drawn to those in need of help."
+tags:
+  # icon tags
+  - eye
+  - medic
+  - cross
+  - plus
+  - skull
+  # description tags
+  - aura
+  - healing

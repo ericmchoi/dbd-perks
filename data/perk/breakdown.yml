@@ -1,0 +1,23 @@
+name: Breakdown
+codename: breakdown
+type: survivor
+unique: jeff johansen
+level: 30
+description: |-
+  Any time you are removed from a hook (escaped or saved), the hook breaks and The Killer's aura is
+  shown to you for **[[4/5/6]] seconds**. A hook broken by this perk takes **180 seconds** to
+  respawn.
+flavor: |-
+  "Charge from the Belly of the Beast"  
+  Here's a sketch/paining on a piece of wood I saw by the side of the road. I felt like it got a
+  story to tell. And it didn't waste its second chance. -Jeff, ink and oil wash on slice of wood,
+  12x16
+tags:
+  # icon tags
+  - hook
+  - breaking
+  # description tags
+  - escaping
+  - saving
+  - aura
+  - sabotage

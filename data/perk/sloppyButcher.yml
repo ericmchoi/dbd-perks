@@ -1,0 +1,27 @@
+name: Sloppy Butcher
+codename: sloppyButcher
+type: killer
+unique: ~
+level: 30
+description: |-
+  You know where to hit to make them bleed.
+
+  Wounds inflicted by successful *basic attacks* cause the {{status:mangled|Mangled}} and
+  {{status:bleeding|Hemorrhage}} status effects.
+
+  {{status:bleeding|Hemorrhage}} **[[slightly/moderately/considerably]]** increases the Survivor's
+  bleeding frequency.
+
+  {{status:bleeding|Hemorrhage}} and {{status:mangled|Mangled}} effects caused by *Sloppy Butcher*
+  are removed once the survivor is fully healed.
+flavor: |-
+  "It's in its sadistic nature. There is no swift kill as it delights in the obscene spectacle of
+  our agonizing suffering."
+tags:
+  # icon tags
+  - pig
+  - head
+  # description tags
+  - bleeding
+  - mangle
+  - hemorrhage

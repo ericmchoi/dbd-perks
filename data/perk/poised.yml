@@ -1,0 +1,18 @@
+name: Poised
+codename: poised
+type: survivor
+unique: jane romero
+level: 35
+description: |-
+  Achieving goals boosts your confidence.
+
+  After a generator is completed, you leave no scratch marks for **[[6/8/10]] seconds**.
+flavor: |-
+  "Ok, stay calm. Don't overthink it and just keep moving forward: you got this." -Jane Romero
+tags:
+  # icon tags
+  - generator
+  - person
+  # description tags
+  - generator
+  - scratch marks

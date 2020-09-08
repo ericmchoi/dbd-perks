@@ -1,0 +1,30 @@
+name: Adrenaline
+codename: adrenaline
+type: survivor
+unique: meg thomas
+level: 40
+description: |-
+  You are fuelled by unexpected energy when on the verge of escape.
+
+  **Instantly heal one health state** and sprint at **150%** of your normal running speed for **5
+  seconds** when the Exit Gates are powered. *Adrenaline* is on hold if you are disabled at the
+  moment it should take effect and will activate when freed.
+
+  *Adrenaline* will **wake you up** if you are asleep when it triggers.
+
+  *Adrenaline* ignores the {{status:exhausted|Exhausted}} status effect.
+
+  Causes the {{status:exhausted|Exhausted}} status effect for **[[60/50/40]] seconds**.
+
+  You do not recover from the {{status:exhausted|Exhausted}} status effect when running.
+flavor: ~
+tags:
+  # icon tags
+  - heart
+  - shot
+  - syringe
+  # description tags
+  - healing
+  - running speed
+  - exit gates
+  - exhausted

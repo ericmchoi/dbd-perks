@@ -1,0 +1,23 @@
+name: Gearhead
+codename: gearHead
+type: killer
+unique: deathslinger
+level: 30
+description: |-
+  You've got an ear for well-oiled gears.
+
+  After hitting a Survivor **2** times with your *basic attack*, *Gearhead* activates for
+  **[[20/25/30]] seconds**.
+
+  While *Gearhead* is active, each time a Survivor completes a Good Skill Check while repairing, the
+  generator will be revealed by a yellow aura for as long as it is being repaired.
+flavor: |-
+  "Sometimes a man's best work is what puts him in the grave." -The prison warden
+tags:
+  # icon tags
+  - gears
+  - skull
+  # description tags
+  - skill check
+  - repairing
+  - aura

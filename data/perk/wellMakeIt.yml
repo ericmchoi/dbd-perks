@@ -1,0 +1,20 @@
+name: We'll Make It
+codename: wellMakeIt
+type: survivor
+unique: ~
+level: 35
+description: |-
+  Helping others heightens your morale.
+
+  When you rescue a Survivor from a hook, gain a **100%** speed increase while healing others for
+  **[[30/60/90]] seconds**.
+flavor: |-
+  "I'm confident we can all escape in one piece if we help each other."
+tags:
+  # icon tags
+  - hook
+  - person
+  - fist
+  # description tags
+  - rescue
+  - healing

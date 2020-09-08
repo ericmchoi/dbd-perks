@@ -1,0 +1,24 @@
+name: Object Of Obsession
+codename: objectOfObsession
+type: survivor
+unique: laurie strode
+level: 35
+description: |-
+  A supernatural bond links you to the Killer.
+
+  If you are looking the Killer's direction, your link will reveal your auras to each other. This
+  effect applies only if you are outside the Killer's Terror Radius.
+
+  As the Killer's obsession, this effect applies to a maximum range of **[[56/64/72]] meters**.
+  Otherwise, it applies to a maximum range of **[[44/56/64]] meters**.
+  - *Increases your chances of being The Killer's Obsession.*
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor: |-
+  "He was watching me!" -Laurie Strode
+tags:
+  # icon tags
+  - eye
+  # description tags
+  - obsession
+  - aura
+  - terror radius

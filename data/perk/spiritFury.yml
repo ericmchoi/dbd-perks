@@ -1,0 +1,22 @@
+name: Spirit Fury
+codename: spiritFury
+type: killer
+unique: spirit
+level: 30
+description: |-
+  Each pallet you break magnifies the wrath of The Entity.
+
+  After breaking **[[4/3/2]] pallets**, the next time you are stunned by a pallet, The Entity will
+  instantly break the pallet.
+
+  You still suffer from the stun effect penalty.
+flavor: |-
+  "Fury is her blood."
+tags:
+  # icon tags
+  - entity
+  - sticks
+  - wood
+  # description tags
+  - pallet
+  - entity

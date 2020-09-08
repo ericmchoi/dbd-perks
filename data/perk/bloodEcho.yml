@@ -1,0 +1,24 @@
+name: Blood Echo
+codename: bloodEcho
+type: killer
+unique: oni
+level: 35
+description: |-
+  The agony of one is inflicted on others.
+
+  When hooking a Survivor, all other injured Survivors suffer from the
+  {{status:bleeding|Hemorrhage}} status effect until healed and the
+  {{status:exhausted|Exhaustion}} status effect for **45 seconds**.
+
+  *Blood Echo* has a cooldown of **[[80/70/60]] seconds**.
+flavor: |-
+  "Attack an enemy with precision and their allies will feel it." -Renjiro's Doctrine 6:3
+tags:
+  # icon tags
+  - people
+  - injured
+  # description tags
+  - hooking
+  - injured
+  - hemorrhage
+  - exhausted

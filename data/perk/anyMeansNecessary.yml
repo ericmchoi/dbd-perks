@@ -1,0 +1,21 @@
+name: Any Means Necessary
+codename: anyMeansNecessary
+type: survivor
+unique: yui kimura
+level: 35
+description: |-
+  You stand up for yourself, using whatever's on hand to gain an advantage.
+
+  Press and hold the *Active Ability* button for **4 seconds** while standing beside a dropped
+  pallet to reset it to its upright position.
+
+  *Any Means Necessary* has a cooldown of **[[140/130/120]] seconds**.
+flavor: |-
+  "I'll hit you with everything I've got. Then I'll do it again." -Yui Kimura
+tags:
+  # icon tags
+  - fist
+  - looking back
+  # description tags
+  - pallet
+  - active ability

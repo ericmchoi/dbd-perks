@@ -1,0 +1,21 @@
+name: Premonition
+codename: premonition
+type: survivor
+unique: ~
+level: ~
+description: |-
+  You have the undeniable capability to sense danger.
+
+  Get an auditory warning when looking in the direction of the Killer in a **45 degree** cone within
+  a range of **36 meters**.
+
+  Premonition has a cooldown of **[[60/45/30]] seconds** each time it activates.
+flavor: |-
+  "I have a bad feeling about this!"
+tags:
+  # icon tags
+  - head
+  - turning back
+  # description tags
+  - auditory warning
+  - looking

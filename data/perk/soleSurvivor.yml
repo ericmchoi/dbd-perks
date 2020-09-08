@@ -1,0 +1,27 @@
+name: Sole Survivor
+codename: soleSurvivor
+type: survivor
+unique: laurie strode
+level: 30
+description: |-
+  As more of your friends fall to the killer, you become shrouded in isolation and the killer's
+  __aura reading abilities__ towards you are disrupted.
+
+  Every time a fellow Survivor is killed or sacrificed, gain a token. For each token, your aura
+  cannot be read by The Killer within a max range of **[[20/22/24]] meters** for each **killed** or
+  **sacrificed** Survivor.
+  - *Increases your chances of being The Killer's Obsession.*
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor: |-
+  "It was the boogeyman." -Laurie Strode
+tags:
+  # icon tags
+  - woman
+  - person
+  - skulls
+  # description tags
+  - aura
+  - killed
+  - sacrificed
+  - token
+  - obsession

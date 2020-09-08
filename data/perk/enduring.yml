@@ -1,0 +1,17 @@
+name: Enduring
+codename: enduring
+type: killer
+unique: hillbilly
+level: 30
+description: |-
+  You are resilient to pain.
+  
+  You reduce the duration of __Pallet Stuns__ by **[[40/45/50]]%**.
+flavor: |-
+  "He stops at nothing."
+tags:
+  # icon tags
+  - head
+  - yelling
+  # description tags
+  - pallet stuns

@@ -1,0 +1,22 @@
+name: "Hex: Ruin"
+codename: ruin
+type: killer
+unique: hag
+level: 35
+description: |-
+  A Hex that affects all Survivors' generator repair progress.
+  
+  All generators are affected by *Hex: Ruin*. While a generator is not being repaired by a Survivor,
+  it will immediately and automatically regress repair progress at **[[100/150/200]]%** of the
+  normal regression speed.
+
+  *The Hex effects persist as long as the related Hex Totem is standing.*
+flavor: |-
+  "A curse is upon you. It will be your ruin."
+tags:
+  # icon tags
+  - entity
+  - generator
+  # description tags
+  - regression
+  - generator

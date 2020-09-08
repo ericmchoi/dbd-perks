@@ -1,0 +1,22 @@
+name: Thanatophobia
+codename: thatanophobia
+type: killer
+unique: nurse
+level: 35
+description: |-
+  Their courage fades in the face of undeniable mortality.
+
+  For each injured, dying, or hooked survivor, all survivors receive a penalty of **[[3/3.5/4]]%**
+  to a maximum of **[[12/14/16]]%** to repair, healing, and sabotage speeds.
+flavor: |-
+  "She plays with us and revels in our pain."
+tags:
+  # icon tags
+  - four skulls
+  # description tags
+  - injured
+  - dying
+  - hooked
+  - repairing
+  - healing
+  - sabotaging

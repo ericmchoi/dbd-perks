@@ -1,0 +1,22 @@
+name: Dark Sense
+codename: darkSense
+type: survivor
+unique: ~
+level: 40
+description: |-
+  Unlocks potential in one's aura reading ability.
+
+  Each time a generator is completed, The Killer's aura is revealed to you for **5 seconds**.
+
+  When the last generator is powered the killer's aura is revealed to you for **[[5/7/10]]
+  seconds**.
+flavor: |-
+  "Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to
+  beat him is to know how he thinks." -Lost Tapes: Murf
+tags:
+  # icon tags
+  - eye
+  - person
+  # description tags
+  - aura
+  - generator

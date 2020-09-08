@@ -1,0 +1,22 @@
+name: Unbreakable
+codename: unbreakable
+type: survivor
+unique: bill overbeck
+level: 40
+description: |-
+  Past battles have taught you a thing or two about survival.
+  
+  Grants the ability to fully recover from the dying state **once per trial**. Increases dying
+  recovery speed by **[[25/30/35]]%**.
+flavor: |-
+  "Goddammit, I am seriously FUBAR!" -Bill
+tags:
+  # icon tags
+  - man
+  - beard
+  - person
+  - beret
+  - head
+  # description tags
+  - dying state
+  - dying recovery speed

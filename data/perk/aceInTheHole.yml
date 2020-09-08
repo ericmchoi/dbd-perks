@@ -1,0 +1,24 @@
+name: Ace In The Hole
+codename: aceInTheHole
+type: survivor
+unique: ace visconti
+level: 40
+description: |-
+  Lady Luck always seems to be throwing something good your way.
+
+  When retrieving an item from a chest, there is a **100%** chance that a **very rare** (or lower)
+  add-on will be attached to it.
+  **[[10/25/50]]%** chance of finding an add-on of **uncommon** rarity or lower.
+
+  When escaping, keep any addons your item has.
+flavor: |-
+  "Everything that glitters isn't gold. But gold isn't worth a damn in this place, so this should
+  come in handy." -Ace
+tags:
+  # icon tags
+  - card
+  - hand
+  # description tags
+  - chest
+  - item
+  - addon add-on

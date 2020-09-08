@@ -1,0 +1,25 @@
+name: Distortion
+codename: distortion
+type: survivor
+unique: jeff johansen
+level: 40
+description: |-
+  You start the trial with **3 Tokens**.
+
+  When your aura would be shown to The Killer, *Distortion* activates and a token is consumed.
+
+  For the next **[[6/8/10]] seconds** while *Distortion* is activated, you do not leave scratch
+  marks and your aura will not be shown to The Killer.
+  - *Distortion* does not activate when you are in the dying state or in a trap.
+flavor: |-
+  "Death Fooled by the Cloak of Falcon Feathers."  
+  Sketch inspired by a few sleepless nights during winter. Exploration of Norse mythology: bravery
+  can conceal your flaws, even when you are at your most vulnerable. -Jeff, pencil on toned paper,
+  12x12
+tags:
+  # icon tags
+  - person
+  # description tags
+  - tokens
+  - aura
+  - scratch marks

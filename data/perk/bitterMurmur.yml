@@ -1,0 +1,21 @@
+name: Bitter Murmur
+codename: bitterMurmur
+type: killer
+unique: ~
+level: 40
+description: |-
+  Unlocks potential in one's aura reading ability.
+
+  Each time a generator is fully repaired, survivors within **16 meters** of the completed generator
+  will be revealed for **5 seconds**.
+
+  When the last generator is fully repaired, all the survivors auras are revealed for **[[5/7/10]]
+  seconds**.
+flavor: ~
+tags:
+  # icon tags
+  - arm
+  - hand
+  # description tags
+  - aura
+  - generator

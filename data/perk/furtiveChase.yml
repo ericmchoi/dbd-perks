@@ -1,0 +1,27 @@
+name: Furtive Chase
+codename: furtiveChase
+type: killer
+unique: ghost face
+level: 40
+description: |-
+  You become __obsessed__ with one Survivor.
+
+  You lurk in the shadows, eliminating your victims one by one. When your Obsession is hooked,
+  *Furtive Chase* receives a token, up to a maximum of **[[2/3/4]] tokens**.
+
+  Each token decreases your Terror Radius by **4 meters** while in a chase.
+
+  When a Survivor rescues the Obsession from a hook, the rescuer becomes the Obsession. You lose all
+  your tokens if the Obsession is sacrificed or killed.
+
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor: |-
+  "You have no idea what I have planned for you. It'll be in the news for weeks: I'll make sure of
+  it" -The Ghost Face
+tags:
+  # icon tags
+  - hook
+  # description tags
+  - obsession
+  - terror radius
+  - rescue

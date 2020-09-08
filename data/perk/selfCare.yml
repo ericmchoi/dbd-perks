@@ -1,0 +1,18 @@
+name: Self Care
+codename: selfCare
+type: survivor
+unique: claudette morel
+level: 40
+description: |-
+  Unlocks the ability to heal yourself without a healing item at **50%** the normal healing speed.
+  Increases the efficiency of healing item self-heal by **[[10/15/20]] %**.
+flavor: ~
+tags:
+  # icon tags
+  - hand
+  - arm
+  - bandage
+  # description tags
+  - healing speed
+  - healing item efficiency
+  - self heal

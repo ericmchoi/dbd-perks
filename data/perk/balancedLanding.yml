@@ -1,0 +1,28 @@
+name: Balanced Landing
+codename: balancedLanding
+type: survivor
+unique: nea karlsson
+level: 30
+description: |-
+  Your agility is incomparable.
+
+  After falling from a height, cat-like reflexes reduce your stagger duration from falling by
+  **75%** and reduce the volume of grunts from falling by **100%**. You start sprinting at **150%**
+  your normal running speed for a maximum of **3 seconds**.
+
+  Causes the {{status:exhausted|Exhausted}} status effect for **[[60/50/40]]** seconds.
+
+  *Balanced Landing* cannot be used while {{status:exhausted|Exhausted}}.
+
+  You do not recover from the {{status:exhausted|Exhausted}} status effect while running.
+flavor: |-
+  "I've jumped from higher places." -Nea
+tags:
+  # icon tags
+  - pose posing
+  # description tags
+  - falling
+  - stagger
+  - noise sound audio
+  - running speed
+  - exhausted

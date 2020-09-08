@@ -1,0 +1,18 @@
+name: Forced Penance
+codename: forcedPenance
+type: killer
+unique: executioner
+level: 30
+description: |-
+  Those who stand in the way of duty will suffer harsh judgment.
+
+  Survivors who take a protection hit are inflicted with the {{status:broken|Broken}} status effect
+  for **[[40/50/60]] seconds**.
+flavor:
+tags:
+  # icon tags
+  - pyramid head
+  - carry
+  # description tags
+  - protection hit
+  - broken

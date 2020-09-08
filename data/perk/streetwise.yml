@@ -1,0 +1,17 @@
+name: Streetwise
+codename: streetwise
+type: survivor
+unique: nea karlsson
+level: 40
+description: |-
+  Long nights out taught you to do a lot with what you've got.
+
+  Reduce consumption rate of item charge by **[[15/20/25]]%** for you and allies within a **8
+  meter** range. Once out of range, this effect persists for **15 seconds**.
+flavor: |-
+  "You're doing it wrong! Let me show you how it's done." -Nea
+tags:
+  # icon tags
+  - graffiti
+  # description tags
+  - item consumption rate

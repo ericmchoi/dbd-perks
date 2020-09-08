@@ -1,0 +1,20 @@
+name: Trail Of Torment
+codename: trailOfTorment
+type: killer
+unique: executioner
+level: 35
+description: |-
+  You guide your victims along a path of pain and punishment.
+
+  After kicking a generator, you become {{status:undetectable|Undetectable}} for **16 seconds**.
+  During this time, the generator's yellow aura is revealed to Survivors.
+
+  This effect can only trigger once every **[[80/70/60]] seconds**.
+flavor:
+tags:
+  # icon tags
+  - barbed wire
+  - generator
+  # description tags
+  - undetectable
+  - aura

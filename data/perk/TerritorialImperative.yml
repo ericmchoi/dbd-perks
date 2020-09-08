@@ -1,0 +1,19 @@
+name: Territorial Imperative
+codename: TerritorialImperative
+type: killer
+unique: huntress
+level: 35
+description: |-
+  Unlocks potential in one's aura reading ability.
+  
+  Survivors' auras are revealed to you for **3 seconds** when they enter the basement and you are
+  more than **32 meters** away from the basement entrance.
+  
+  *Territorial Imperative* can only be triggered once every **[[30/25/20]] seconds**.
+flavor:
+tags:
+  # icon tags
+  - wolf
+  # description tags
+  - aura
+  - basement

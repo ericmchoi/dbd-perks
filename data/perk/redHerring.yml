@@ -1,0 +1,25 @@
+name: Red Herring
+codename: redHerring
+type: survivor
+unique: zarina kassir
+level: 35
+description: |-
+  You've noticed that people pay attention to whatever makes the loudest noise.
+
+  After repairing a generator for at least **3 seconds**, it will be highlighted to you with a
+  yellow aura. The generator stays highlighted until it is fully repaired, or you repair a new
+  generator, or enter a locker.
+
+  Entering any locker will trigger a loud noise indicator for The Killer at the highlighted
+  generator's location.
+  - *Red Herring* can only be triggered once every **[[100/80/60]] seconds**.
+flavor: |-
+  "The news edit out what is burdensome and complex, which is the truth." -Zarina Kassir
+tags:
+  # icon tags
+  - fish
+  # description tags
+  - loud noise indicator
+  - generator
+  - repairing
+  - locker

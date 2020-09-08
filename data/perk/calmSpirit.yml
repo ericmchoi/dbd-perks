@@ -1,0 +1,20 @@
+name: Calm Spirit
+codename: calmSpirit
+type: survivor
+unique: jake park
+level: 35
+description: |-
+  Animals seem to trust you as they often stay calm in your presence.
+
+  Reduces chances of alerting woodland creatures by **[[80/90/100]]%**.
+
+  Calm Spirit allows you to overcome the urge to scream.
+flavor: ~
+tags:
+  # icon tags
+  - hands
+  - bird
+  # description tags
+  - crows
+  - alerting
+  - scream

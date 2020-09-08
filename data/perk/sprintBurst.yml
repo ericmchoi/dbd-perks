@@ -1,0 +1,24 @@
+name: Sprint Burst
+codename: sprintBurst
+type: survivor
+unique: meg thomas
+level: 35
+description: |-
+  When starting to run, break into a sprint of **150%** of your normal running speed for a maximum
+  of **3 seconds**.
+  
+  Causes the {{status:exhausted|Exhausted}} status effect for **[[60/50/40]] seconds**.
+  
+  *Sprint Burst* cannot be used while {{status:exhausted|Exhausted}}.
+  
+  You do not recover from the {{status:exhausted|Exhausted}} status effect while running.
+flavor: ~
+tags:
+  # icon tags
+  - feet
+  - running
+  - sneakers
+  - shoes
+  # description tags
+  - exhausted
+  - running speed

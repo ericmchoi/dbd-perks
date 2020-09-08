@@ -1,0 +1,21 @@
+name: Pop Goes The Weasel
+codename: popGoesTheWeasel
+type: killer
+unique: clown
+level: 40
+description: |-
+  A deep bond with The Entity unlocks great strength.
+
+  After Hooking a Survivor, the next generator you break is instantly regressed by **25%** of its
+  total progress. Normal generation regression applies after the damage is done. *Pop Goes the
+  Weasel* is active **[[40/50/60]] seconds** after the Survivor is hooked.
+flavor:
+tags:
+  # icon tags
+  - box
+  - spring
+  - hook
+  # description tags
+  - hooking
+  - generator
+  - breaking

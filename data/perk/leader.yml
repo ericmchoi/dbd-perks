@@ -1,0 +1,30 @@
+name: Leader
+codename: leader
+type: survivor
+unique: dwight fairfield
+level: 40
+description: |-
+  You're able to organize a team to cooperate more efficiently.
+
+  Increases other Survivors' healing, sabotage, unhooking, cleansing, opening exit gates, and chest
+  search speeds by **[[15/20/25]]%** when they are within a **8 meter** range from you.
+
+  Survivors can only be affected by one *Leader* effect at a time.
+
+  This effect persists on other Survivors for **15 seconds** after leaving the *Leader's* effective
+  perk range.
+flavor: ~
+tags:
+  # icon tags
+  - person
+  - glasses
+  - pointing
+  - tie
+  # description tags
+  - healing
+  - sabotage sabotaging
+  - unhooking
+  - cleanse cleansing
+  - opening exit gates
+  - searching chests
+  - speed

@@ -1,0 +1,20 @@
+name: Remember Me
+codename: rememberMe
+type: killer
+unique: nightmare
+level: 35
+description: |-
+  You become __obsessed__ with one Survivor. Each time you hit your Obsession with a *basic attack*,
+  you increase the opening time of the Exit Gates by **4 seconds** up to a maxumum of **[[8/12/16]] 
+  additional seconds**.
+  The Obsession is not affected by *Remember Me*.
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor: ~
+tags:
+  # icon tags
+  - hand
+  - nails
+  # description tags
+  - obsession
+  - exit gate
+  - opening time

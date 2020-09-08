@@ -1,0 +1,26 @@
+name: Dying Light
+codename: dyingLight
+type: killer
+unique: shape
+level: 40
+description: |-
+  You become __obsessed__ with one Survivor.
+
+  Your obsession gains a **33%** action speed bonus to unhooking and healing other Survivors.
+
+  Each time you hook a Survivor other than the Obsession, if the Obsession is alive, gain a token.
+  If the Obsession is alive, all Survivors who are not the Obsession get **[[2/2.5/3]]%** penalty to
+  Repair, Healing, and Sabotage speeds for each token.
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor: |-
+  "This isn't a man..." -Dr. Sam Loomis
+tags:
+  # icon tags
+  - lantern
+  # description tags
+  - obsession
+  - token
+  - unhooking
+  - repairing
+  - healing
+  - sabotaging

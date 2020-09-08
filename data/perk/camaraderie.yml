@@ -1,0 +1,23 @@
+name: Camaraderie
+codename: camaraderie
+type: survivor
+unique: steve harrington
+level: 35
+description: |-
+  Life has taught you the importance of friendship which has given you strength.
+
+  While you are on the hook in the struggle phase, *Camaraderie* activates. If another Survivor is
+  within **16 meters** of you while *Camaraderie* is activated, the hook timer is paused for
+  **[[26/30/34]] seconds**.
+flavor: |-
+  "So, remember once you get in there... pretend like you don't care. There you go, you're learning
+  my friend. You're learning." -Steve Harrington
+tags:
+  # icon tags
+  - hook
+  - walkie talkies
+  - phones
+  - shaking
+  - ringing
+  # description tags
+  - hook timer

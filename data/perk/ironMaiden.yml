@@ -1,0 +1,21 @@
+name: Iron Maiden
+codename: ironMaiden
+type: killer
+unique: legion
+level: 40
+description: |-
+  You open lockers **[[30/40/50]] %** faster.
+
+  Survivors who exit lockers suffer from the {{status:exposed|Exposed}} status effect for **15
+  seconds** and their location is revealed for **4 seconds**.
+flavor: |-
+  "There is no place for cowards." -The Legion
+tags:
+  # icon tags
+  - cabinet
+  - coffin
+  - skull
+  # description tags
+  - lockers
+  - exposed
+  - revealed

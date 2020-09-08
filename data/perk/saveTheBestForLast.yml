@@ -1,0 +1,29 @@
+name: Save The Best For Last
+codename: saveTheBestForLast
+type: killer
+unique: shape
+level: 30
+description: |-
+  You become __obsessed__ with one Survivor.
+
+  Earn a token for each *basic attack* that is not dealt to the Obsession.
+
+  Each Token grants a stackable **5%** decreased successful *basic attack* cooldown, you can earn up
+  to **8** tokens.
+
+  Hitting your Obsession with a *basic attack* will cause you to lose **[[4/3/2]]** tokens.
+
+  You can no longer gain tokens if your Obsession is sacrificed or killed.
+
+  - *The Killer can only be __obsessed__ with one Survivor at a time.*
+flavor: |-
+  "Death has come to your little town, sheriff." -Dr. Sam Loomis
+tags:
+  # icon tags
+  - face
+  - skulls
+  - entity
+  # description tags
+  - obsession
+  - basic attack cooldown
+  - tokens

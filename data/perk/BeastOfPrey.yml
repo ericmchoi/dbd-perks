@@ -1,0 +1,26 @@
+name: Beast Of Prey
+codename: BeastOfPrey
+type: killer
+unique: huntress
+level: 30
+description: |-
+  Your lust for a kill is so intense that your connection with the Entity is momentarily lost,
+  making you totally unpredictable.
+
+  Grants the {{status:undetectable|Undetectable}} status effect after gaining Bloodlust Tier I. The status effect is
+  removed once you lose Bloodlust.
+
+  * Gain **[[30/40/50]]%** more Bloodpoints for actions in the Hunter Category.
+flavor: |-
+  "Where did she go?"
+tags:
+  # icon tags
+  - wolf
+  - bear
+  - animal
+  - fangs
+  - roar
+  # description tags
+  - undetectable
+  - bloodpoints
+  - bloodlust

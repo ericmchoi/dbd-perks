@@ -1,0 +1,15 @@
+name: Coulrophobia
+codename: coulrophobia
+type: killer
+unique: clown
+level: 35
+description: |-
+  Your presence alone instills great fear.
+
+  Survivors within your Terror Radius have a **[[30/40/50]]%** penalty to healing progress speed.
+flavor: ~
+tags:
+  # icon tags
+  # description tags
+  - terror radius
+  - healing speed
