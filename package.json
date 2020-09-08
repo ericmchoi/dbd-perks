@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "dbd-perks",
+  "description": "Simple webpage for looking up Dead by Daylight perk information",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
