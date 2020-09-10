@@ -1,0 +1,19 @@
+name: Visionary
+codename: visionary
+type: survivor
+unique: felix richter
+level: 30
+description: |-
+  You're remarkably focused on your means of escape.
+
+  You see generator's auras within **32 meters**.
+
+  Anytime a generator is completed, *Visionary* is disabled for **[[20/18/16]] seconds**.
+flavor: ~
+tags:
+  # icon tags
+  - head
+  - person
+  # description tags
+  - auras
+  - generators

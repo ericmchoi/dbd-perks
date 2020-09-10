@@ -1,0 +1,23 @@
+name: "Hex: Blood Favor"
+codename: hexBloodFavor
+type: killer
+unique: blight
+level: 35
+description: |-
+  A hex that gains the Entity's favor when blood is spilled.
+
+  When a Survivor is hit, pallets within **16 meters** of your location are held in place by The
+  Entity for **15 seconds**. These pallets cannot be pulled down.
+
+  *Hex: Blood Favor* has a cooldown of **[[60/50/40]] seconds**.
+flavor: |-
+  "It would be no leap of the imagination to suggest that the trials are a biological responsed of
+  sorts." -Journal of Talbot Grimes
+tags:
+  # icon tags
+  - person
+  - running
+  - chased
+  # description tags
+  - pallet
+  - hex

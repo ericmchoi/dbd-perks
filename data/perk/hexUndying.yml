@@ -1,0 +1,19 @@
+name: "Hex: Undying"
+codename: hexUndying
+type: killer
+unique: blight
+level: 40
+description: |-
+  A hex which maintains the vile powers that flow throughout the trial.
+
+  While *Hex: Undying* is active, Survivors within **2 meters** of any totem have their aura
+  revealed for **[[4/5/6]] seconds**.
+
+  When another Hex Totem is cleansed, that Hex transfers to an available dull totem, losing any
+  tokens in the process.
+flavor: ~
+tags:
+  # icon tags
+  - totems
+  # description tags
+  - aura

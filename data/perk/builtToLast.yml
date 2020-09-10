@@ -1,0 +1,19 @@
+name: Built to Last
+codename: builtToLast
+type: survivor
+unique: felix richter
+level: 40
+description: |-
+  You know how to get the most out of your tools.
+
+  Once per trial, a depleted item will refill **[[30/40/50]]%** of its charges after **10 seconds**.
+flavor: |-
+  "Architecture is the soul of civilization." -Felix Richter
+tags:
+  # icon tags
+  - tools
+  - compass
+  - ruler
+  - hands
+  # description tags
+  - items

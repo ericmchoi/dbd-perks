@@ -1,0 +1,23 @@
+name: Desperate Measures
+codename: desperateMeasures
+type: survivor
+unique: felix richter
+level: 35
+description: |-
+  You refuse to fail, even during your darkest hour.
+
+  For each injured, hooked, or dying Survivor, increase the speed of your healing and unhook
+  actions by **[[10/12/14]]%**.
+flavor: |-
+  "When they come with a wrecking ball, build stronger walls." -Felix Richter
+tags:
+  # icon tags
+  - hooks
+  - table
+  - person
+  # description tags
+  - injured
+  - hooked
+  - dying
+  - healing speed
+  - unhooking

@@ -1,0 +1,23 @@
+name: Dragon's Grip
+codename: dragonsGrip
+type: killer
+unique: blight
+level: 30
+description: |-
+  After kicking a generator, for the next **30 seconds**, the first Survivor that interacts with it
+  will scream, revealing their location for **4 seconds**, and becoming afflicted with the
+  {{status:exposed|Exposed}} status effect for **60 seconds**.
+
+  *Dragon's Grip* has a cooldown of **[[120/100/80]] seconds**.
+flavor: |-
+  "Such potential in this compound... even the slightest trace causes unnatural effects." -Journal
+  of Talbot Grimes
+tags:
+  # icon tags
+  - generator
+  - skull
+  # description tags
+  - kicking
+  - generator
+  - noise audio sound
+  - exposed
